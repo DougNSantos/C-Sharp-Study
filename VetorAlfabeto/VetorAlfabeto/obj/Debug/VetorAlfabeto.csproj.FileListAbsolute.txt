@@ -1,0 +1,7 @@
+D:\C#Repositorio\VetorAlfabeto\VetorAlfabeto\bin\Debug\VetorAlfabeto.exe.config
+D:\C#Repositorio\VetorAlfabeto\VetorAlfabeto\bin\Debug\VetorAlfabeto.exe
+D:\C#Repositorio\VetorAlfabeto\VetorAlfabeto\bin\Debug\VetorAlfabeto.pdb
+D:\C#Repositorio\VetorAlfabeto\VetorAlfabeto\obj\Debug\VetorAlfabeto.csproj.AssemblyReference.cache
+D:\C#Repositorio\VetorAlfabeto\VetorAlfabeto\obj\Debug\VetorAlfabeto.csproj.CoreCompileInputs.cache
+D:\C#Repositorio\VetorAlfabeto\VetorAlfabeto\obj\Debug\VetorAlfabeto.exe
+D:\C#Repositorio\VetorAlfabeto\VetorAlfabeto\obj\Debug\VetorAlfabeto.pdb
